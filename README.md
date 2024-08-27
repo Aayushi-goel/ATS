@@ -1,6 +1,3 @@
-Thank you for sharing the code! Based on this, here's an updated `README.md` file that closely aligns with your implementation:
-
-```markdown
 # Applicant Tracking System (ATS) Project
 
 ## Overview
